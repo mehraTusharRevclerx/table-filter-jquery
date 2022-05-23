@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "firstName": "Tushar",
+        "lastName": "mehra",
+        "PhoneNo": 8091974444,
+        "handel": "@tushar78628"
+
+    },
+    {
+        "id": 2,
+        "firstName": "sanjana",
+        "lastName": "das",
+        "PhoneNo": 8976564534,
+        "handel": "@sanjana897"
+
+    },
+    {
+        "id": 3,
+        "firstName": "komal",
+        "lastName": "chawla",
+        "PhoneNo": 9089786756,
+        "handel": "@komal997"
+
+    },
+    {
+        "id": 4,
+        "firstName": "Dilpreet",
+        "lastName": "singh",
+        "PhoneNo": 3452637485,
+        "handel": "@dilpreet90"
+
+    },
+    {
+        "id": 5,
+        "firstName": "shray",
+        "lastName": "mehra",
+        "PhoneNo": 8978674535,
+        "handel": "@shray80"
+
+    },
+    {
+        "id": 6,
+        "firstName": "navneet",
+        "lastName": "gill",
+        "PhoneNo": 8374859607,
+        "handel": "@gill840"
+
+    },
+    {
+        "id": 7,
+        "firstName": "rohit",
+        "lastName": "kumar",
+        "PhoneNo": 8728364758,
+        "handel": "@rohit28"
+
+    },
+    {
+        "id": 8,
+        "firstName": "kumar",
+        "lastName": "chandan",
+        "PhoneNo": 4758394569,
+        "handel": "@kumar328"
+
+    },
+    {
+        "id": 9,
+        "firstName": "satyam",
+        "lastName": "sharma",
+        "PhoneNo": 8374894933,
+        "handel": "@sharma28"
+
+    },
+    {
+        "id": 10,
+        "firstName": "pravesh",
+        "lastName": "sharma",
+        "PhoneNo": 7826738492,
+        "handel": "@78pravesh"
+
+    }
+]
